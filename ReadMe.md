@@ -15,7 +15,6 @@ Monitoring: Prometheus, Grafana, ELK Stack
 
 💡 Passionate about building scalable solutions, reducing deployment times, and collaborating to solve complex problems.
 
-Currently contributing at *DevOps-Bot*, improving automation workflows.  
 Always open to *collaborations* and *open-source contributions*.  
 
 ---
