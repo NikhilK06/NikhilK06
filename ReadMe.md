@@ -58,9 +58,6 @@ Always open to *collaborations* and *open-source contributions*.
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50"/>
   </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
-  </a>
 </p>
 
 ---
