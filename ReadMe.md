@@ -21,13 +21,13 @@ Always open to *collaborations* and *open-source contributions*.
 
 ## Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/anish-sai-k-t-6263a324a/" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhil-konda-6515551b5/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:nikhilkonda45@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="40" height="40"/>
   </a>
- <a href="https://leetcode.com/AnishKS07/" target="_blank">
+ <a href="https://leetcode.com/u/Nikhil_K45/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
 </a>
 
