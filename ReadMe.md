@@ -3,15 +3,7 @@
 👋 Hey there! I'm Nikhil
 🚀 DevOps Engineer | Cloud & Automation Enthusiast | SRA @ICEDATA SERVICES | EX-TCSER | EX-EKA | 
 
-With 4+ years of experience, I specialize in optimizing IT infrastructure, automating workflows, and enhancing system reliability. My expertise includes CI/CD pipelines, cloud technologies, and monitoring solutions to ensure seamless deployments and efficient operations.
-
-🔧 Tech Stack:
-
-Automation: Bash, Python, Ansible, Terraform
-CI/CD: Jenkins, Rundeck, Git
-Cloud & Containers: Kubernetes, Docker, AWS
-Monitoring: Prometheus, Grafana, ELK Stack
-🌱 Currently Learning: Advanced Kubernetes, cost-optimization techniques, and deeper monitoring integrations.
+With 5+ years of experience, I specialize in optimizing IT infrastructure, automating workflows, and enhancing system reliability. My expertise includes CI/CD pipelines, cloud technologies, and monitoring solutions to ensure seamless deployments and efficient operations.
 
 💡 Passionate about building scalable solutions, reducing deployment times, and collaborating to solve complex problems.
 
@@ -44,6 +36,16 @@ Always open to *collaborations* and *open-source contributions*.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilk06&theme=dark&hide_border=false" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilk06&layout=compact&theme=dark" height="180px"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilk06&theme=github-dark" />
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nikhilk06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nikhilk06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
   
